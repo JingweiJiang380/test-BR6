@@ -1,0 +1,12 @@
+#title1 {
+	 font-family: 'Marvel', sans-serif;
+}
+
+#title {
+	 font-family: 'Staatliches', cursive;
+	 padding-top: 30px;
+}
+
+#titlesm {
+	font-family: 'Staatliches', cursive;
+}
